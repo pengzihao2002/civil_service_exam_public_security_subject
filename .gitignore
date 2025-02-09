@@ -1,0 +1,7 @@
+# .开头文件和文件夹
+.*
+~$*
+
+!.gitignore
+docs/
+images/
